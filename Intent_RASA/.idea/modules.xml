@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Intent_Identification/.idea/Intent_Identification.iml" filepath="$PROJECT_DIR$/../Intent_Identification/.idea/Intent_Identification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Intent_Identification/Intent_RASA/.idea/Intent_RASA.iml" filepath="$PROJECT_DIR$/../Intent_Identification/Intent_RASA/.idea/Intent_RASA.iml" />
+    </modules>
+  </component>
+</project>

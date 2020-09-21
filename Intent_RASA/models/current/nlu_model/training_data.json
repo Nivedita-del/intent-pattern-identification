@@ -1,0 +1,549 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "error",
+        "text": "Hi I'm facing problem with my mobiles. It's getting heated everytime i use it."
+      },
+      {
+        "intent": "error",
+        "text": "Camera is not working. Focus is not good.Bluffed mobile."
+      },
+      {
+        "intent": "error",
+        "text": "Hi everyone, Google play services is absolutely killing my battery. This is a day after getting 9 and a half hours SOT. The only thing I changed was using Nova launcher which is also killing battery. Can't even make it through a whole day anymore. Any help would be really appreciated."
+      },
+      {
+        "intent": "error",
+        "text": "wifi may not be available. I have this problem when i turn off my mobile data -4g and connect to wifi it says wifi may not be available and i have to turn off and then turn on wifi but thats not helping sometimes i will restart my phone and than it seems good for copple of minutes then it will say wifi may not be available again and i dont know how to fix it, it drives me crazy Please help me."
+      },
+      {
+        "intent": "error",
+        "text": "Hi,  I recently update latest firmware.  I was using camera zoom in will feel vibration and at times unable to focus.    Now even my second phone note 9 update also same.    WTH Samsung doing!    Improve camera or to damage the hardware."
+      },
+      {
+        "intent": "error",
+        "text": "Hi,  Since updating my galaxy watch software, I cannot change the lap length or any settings in my Samsung Health exercise widget. You click on an exercise and it immediately counts down and starts. No ability to modify screens, or change lap length.    Any suggestions or help available?    Thanks  Stuart."
+      },
+      {
+        "intent": "error",
+        "text": "My watch battery started draining rapidly after May update. This is really started to be annoying. Each update they fix something and break other stuff. This is started to be a bull*****. The last update they fixed the battery drain and broke the encoding for some languages. This update they screwed the battery again. I don't know what kind of engineering is this?"
+      },
+      {
+        "intent": "error",
+        "text": "My Gear S3 Classic Alarm stopped working for me after the May 20th update. The alam widgets are not working, the message on the watch says loading but never does, it says , &quot;Loading failed tapto reload&quot;, it never does. If you try to add an alarm through the watch app menu's it just freezes or crashed. Please push a update to fix this is an important part of the watch."
+      },
+      {
+        "intent": "error",
+        "text": "Cannot believe finger sensor wont work with screen protector. So ridiculous!"
+      },
+      {
+        "intent": "error",
+        "text": "I have a lot to b*tch about.  1. I am FORCED to accept the update.2. The update took TWO entire days , with over a dozen, different updates. That was about a month ago.  3. Yesterday , out of nowhere, it does it again!..165 mb of bull$hit.  4. Doesn't work with themes.  5.I HATE a white screen!...it's too bright.  6.I HATE the idi0tic big, round, spongey looking Mattel -toy graphics. What moron did this? I WANT A NAME AND AN EMAIL ADDRESS.  7. A smartphone is supposed to be a useful tool to streamline my workday. This android update has made my device an obstruction."
+      },
+      {
+        "intent": "error",
+        "text": "My Galaxy S8 won't connect to Android Auto. When I connect the USB cable it shows my phone is charging but nothing else happens, no USB notifications, or any indication of anything other than a charger being connected.I have enabled USB debugging under developer options and also set default USB configuration to transfer files. I have also tried my partners Galaxy S8 and Android Auto starts up no problem when the USB cable is connected, so the cable and car settings are fine."
+      },
+      {
+        "intent": "error",
+        "text": "When I lock my phone my data disconnects and I have to toggle airplane mode to get it to come back. I've been searching for a solution but so far nothing has fixed it."
+      },
+      {
+        "intent": "error",
+        "text": "Yet again, only a couple of days after going through the process of clearing various caches and storage and getting my watch counting steps and floors it decides to stop working"
+      },
+      {
+        "intent": "error",
+        "text": "My watch battery started draining rapidly after May update. This is really started to be annoying. Each update they fix something and break other stuff."
+      },
+      {
+        "intent": "error",
+        "text": "Whenever I place a call the screen turns off but screen do not turn on automatically when I remove the phone from my face after receiving call and I need to press the power button or finger sensor to turn it on."
+      },
+      {
+        "intent": "error",
+        "text": "I have a galaxy s8 plus when i receive incoming calls from a contact in my phone book only their number displays  but when i go in my recent calls both their name and number is there  like most people i don't know everyone's phone number so when people are calling me."
+      },
+      {
+        "intent": "error",
+        "text": "I updated my s9+ to to android pie and now always on display does not come up automatically when i tap on the blank screen. it shows up. but before the update. it used to show up automatically as soon as the phone screen goes dark.  no lighting issue."
+      },
+      {
+        "intent": "error",
+        "text": "Decreased battery performance. It feels like now we have 2000mah battery instead of 4000mah after the update even during the night. in the idle state there is 6% to 7% battery drain"
+      },
+      {
+        "intent": "error",
+        "text": "limitations of j6 after update. they had not provided digital wellbeing there is a bug in camera shutter lags. capturing photos in night or hdr takes time ram management is worst .charging slows downlag in pie easter egga bug in device carememory."
+      },
+      {
+        "intent": "error",
+        "text": "I can't stand this new update  it looks terrible and functions horribly the calendar doesn't even do it's job anymore”."
+      },
+      {
+        "intent": "error",
+        "text": "I am regretting buying my Samsung galaxy watch. Sensors aren't working, several people on various sites are complaining but Samsung is quiet and ignoring us...where is the fix?"
+      },
+      {
+        "intent": "error",
+        "text": "Hi. I've had the s9 for a week and it will randomly make the shutter/screenshot noise multiple times a day. I've turned off the palm swipe. There are no screenshots or photos saved to gallery. Can anyone help please"
+      },
+      {
+        "intent": "error",
+        "text": "So frustrating having moved from iPhone to the Galaxy A9 to find out its not fully compatible with my charge2 fitbit. I can sync with the fitbit app but the A9 will not pair so unable to receive call & text notifications. I've contacted fitbit & Samsung who both were unable to really answer why it can't. It is making me regret the move over a little. Such a shame as I love so many other features on Android. First world problem, I know, but that doesn't stop me being totally hacked off, especially when older models ie the A8 are compatible."
+      },
+      {
+        "intent": "error",
+        "text": "I make calls through a dial up tool on my laptop.  Laptop sends number to S9 over Bluetooth.  My PLT headset is well connected with the S9.  But when calling, the audio is on phone speaker and not routed to the connected bluetooth headset.  Never had this problem with other phones.    Where is the setting to automatically select headset when calling?    Thanks for your ideas."
+      },
+      {
+        "intent": "error",
+        "text": "I've just connected my watch to my new phone the pro 30. When someone rings me I only get the option to reject the call. No option comes up to answer it. I've switched all my notifications on and it's still the same. My wife has the same phone and watch but 42mm version and hers is fine."
+      },
+      {
+        "intent": "error",
+        "text": "The amount of features and aoptions Samsung has taken away from this thing has me wanting to throw this POS at the cement as hard as I possibility can. It's bad when I'd rather use my busted up S8 than the NOTE9 I got to replace it. The new messaging application without the personalzation options for the background in an effort to push your stupid themes.. WEAK. Removing all the shooting modes from the camera ESPECIALLY the 360 shooting mode!! What was the purpose?? If I'm spending this type of money on a device I want to have control over it. So fed up. Get you act together Samsung!!! And Bixby is a joke she doesn't deserve her own button especially if I can't change what that button does on MY OWN DEVICE!!!"
+      },
+      {
+        "intent": "error",
+        "text": "I have purchased a Samsung Metal One remote that is normally supplied with the Q8 & Q9 2018 QLed TVs. I'm pleased to report that it can be paired and fully used on the Q7FN without any issues.  The left remote is the Q8/Q9 and the right is the Q7 One remote."
+      },
+      {
+        "intent": "error",
+        "text": "Quite bad feature by Samsung Email. Recipient addresses CANNOT be revealed.  It just shows the  On clicking over the &quot;aliases&quot; there are options to copy address or put it in contacts.    One must be able to see exactly the addresses of senders. It is the first step to detect PHISHING or SPAM mail!    Cannot believe, I am the only one with this problem by Samsung E-mail."
+      },
+      {
+        "intent": "error",
+        "text": "I have an intermittent issue where every so often, the TV is unable to detect the sky q box; resulting in a screen which says power on the box.    Switching off UHD Colour means that the box can be detected again. Some  of the time switching UHD Colour back on stays working, other times it fails back to the power on screen.     Possibly a correlation with the order that you turn the box and tv to standby, but don’t think it is consistent.    Most of the time, I am able to watch with UHD Colour switched on and when available with the s ky box displaying uhd 10bit. Just takes a bit of messing around every so often - which is frustrating.    anyone else having similar issues?"
+      },
+      {
+        "intent": "error",
+        "text": "I don't know what else do to.. I'm hoping someone can prehaps guide me to the right place.. I've had a terrible experience with getting my S10+ and still waiting for my buds.. it's 6th May today..!    1. I pre-ordered my phone from Samsung's website 22nd Feb.. everywhere on the internet said pre-orders gets delivered on the release date.. mine was delivered on the 14th March.. I live in the UK.. everyone that ordered from Curry's, Argos, any other 3rd party retailers got their phones on the release date.. yet i had to wait over a week even though - I ordered mine from Samsung's website directly?    2. tried calling Samsung support.. waited 6 hours listening to hold music.. only to have the call disconnected.. then called back.. over an hour wait.. ive called a few days after that.. just hold music.. and just to save my back."
+      },
+      {
+        "intent": "error",
+        "text": "Hello All,    After updating to android 9, the Portrait lock/Auto Rotate option is missing from my phone. I cant find it in settings or anywhere, I even tried a full settings reset but still unable to find it. I am attaching a screenshot of my notification pull down drawer. the option is no where to be seen. Please help been struggling with this for long.    I am posting 2 images for reference"
+      },
+      {
+        "intent": "error",
+        "text": "So 1251 finally fixed the black screen in startup on my 49&quot; NU8000. The TV has obviously been significantly more enjoyable now that it always powers on properly.    The issue I've noticed that seems to be new due to the update is the sound will get very quiet and almost crackle when I am playing a game on the Nintendo Switch via HDMI. The volume will come back up after a while and continue to fluctuate during play. I have tested another cable and reset audio settings to no avail, but this definitely started immediately after firmware 1251. Has anyone else had this issue? It is pretty significant and I am especially suspicious it is the update bc the power on issue it fixed also had to do with Game mode, and the sound issue I am experiencing now occurs in game mode. Hope Samsung will test to see if they can reproduce this issue to resolve in a future update."
+      },
+      {
+        "intent": "error",
+        "text": "Hello, everybody.    I have faced an unexpected issue with rear camera in my s10e.  When I take photos in &quot;auto&quot; mode (the default one) I get a lot of white dots on image,  but if I switch to &quot;pro&quot; mode everything looks better...    Looks like this is a software issue.    All software updates were installed and all apps are updated.  Maybe someone can give me any advise or solution how to fix this?    Examples(look at keyboard):"
+      },
+      {
+        "intent": "error",
+        "text": "Hi, I recently bought a new Galaxy S10e. It has been more one week now that I have been using this smartphone. I have noticed that the Fingerprint-Scanner/Power-Button is slightly loose, it wobbles when I try to unlock my phone and I can feel it because it makes slight noise every time I try to unlock my phone. I am just wondering is it normal for S10e to behave like this? Does anyone of you have similar issues?"
+      },
+      {
+        "intent": "error",
+        "text": "What kind of update is this samsung? This is horrible update...you guys made the phones harder to use now... the split screen is a nightmare to get into... do i say i dare go back to apple?? First Samsung is my s8 now and seriously was considering the s10 but with this operating system im not so sure now. I realy hope you and google fix this fast before your sales suffer... read the posts.. no one like android pie!!!!!! Awfull!!!! I just cant believe google and samsung did this... had such a good streak going to"
+      },
+      {
+        "intent": "idea",
+        "text": "Hi guys Does anyone know if the Google discover page is coming to the S10 without going directly to the app. I like the idea of having the discover page to the left of my home screen replacing Bixby home. It seems to be on every other android device. Thanks in advance"
+      },
+      {
+        "intent": "idea",
+        "text": "I would like the suggest samsung to but more efforts on battery rather than on features."
+      },
+      {
+        "intent": "idea",
+        "text": "Samsung new mobile is going to launch in june 2nd week. Grab your phones as soon as possible."
+      },
+      {
+        "intent": "idea",
+        "text": "Put more features in mobile."
+      },
+      {
+        "intent": "idea",
+        "text": "Battery should long last not short. Need to fix it."
+      },
+      {
+        "intent": "idea",
+        "text": "In pro mode, there are 4 additions to be made- a) support for RAW capture in pro mode. b) addition of shutter speed option in pro mode. c) increase in iso range. d) histogram in pro mode."
+      },
+      {
+        "intent": "idea",
+        "text": "Dear Samsung, please give a Quick ball like MI mobile for easy handling big screen of your Galaxy A70 mobile."
+      },
+      {
+        "intent": "idea",
+        "text": "hello. i would recommend samsung to implement the scrolling effect animation found in the samsung health app to be implemented on all of their own apps like messaging. settings etc  the animation is very soothing to see and if actually do that then you probably won't require the blue color effect to appear when one scrolls to the top or bottom of the app."
+      },
+      {
+        "intent": "idea",
+        "text": "Since expensive phone, put some additional layer to the screen that is physically impossible to remove so that those of us with kids don't have a mess. Do what it takes to make sure this product won't break on us all after a week."
+      },
+      {
+        "intent": "idea",
+        "text": "It would've been lovely if samsung introduces the recycle bin option in gallery in order to restore back the accidentally deleted images from galler"
+      },
+      {
+        "intent": "idea",
+        "text": "Security on s10 is low. i bought a s10 last week and i kept face unlock.  in previous series ther was option of iris scan with face unlock and this option of iris has removed in s10 Now it is opining when i'm sleeping  if someone shows mobile towards me while closing eyes it gets unlock."
+      },
+      {
+        "intent": "idea",
+        "text": "I have seen countless videos and articles about changing the colour of your nav bar (especially on demo phones). For some reason I can't do that on my Galaxy S9. If it has been removed, please add it back."
+      },
+      {
+        "intent": "idea",
+        "text": "The old s notes was an awesome app. But since I got Note 9, I cannot use s notes. Instead, I have to use samsung notes. Unfortunately, Samsung has stripped an extremely important functionality from it - the ability to automatically sync the notes with evernote. It is forcing me to only use Samsung cloud. That is NOT right and NOT fair. Please please Samsung, bring back the evernote sync functionality."
+      },
+      {
+        "intent": "idea",
+        "text": "I am looking for an owner of a Galaxy S10 who would be willing to sell me the Ikonik Fortnite skin for a $25 digital giftcard of your choice. All you need to do is download the Fortnite app, login under my account and play three games. I would really appreciate it."
+      },
+      {
+        "intent": "idea",
+        "text": "Hi guys,     I am here to ask to bring Always On Display feature to Galaxy Tablets too.     Always On Display is a great function to display contents and information when device is not used, and this is also useful for tablets category.     You can choose to show always, to show on tap or to take it off as well as for Samrtphones.     For the Galaxy Tab S4 (SM-T830 and SM-T835) and the Galaxy Tab S5e (SM-T720 and SM-T725) it is a good idea to bring support because both have Super Amoled screens that are nice matching to this feature, mostly for off pixel when they are black.     I don't think there are hardware troubles to bring support, otherwise you can share this idea to other Teams to support Always On Display to the upcoming Galaxy Tab S devices.     Thanks for attention, you can tell me what you think :)"
+      },
+      {
+        "intent": "idea",
+        "text": "Hi everyone,     here it is another idea for the Camera application on Galaxy Smartphones.     Pro mode is a great feature and well-appreciated by Galaxy users because it has a lot of features and big customization options can make different for photography (it would be nice for video too...)     One missing option is the possibility to use all rear facing cameras, instead of Main Camera only.     Samsung is providing multiple camera system on the back of flagship phone, so it is useful to get the same Pro mode options for all of them.     For Example, Galaxy devices like S10|S10+ have Ultra Wide and Telephoto lens, and currently there is no way to use them on Pro Mode too, in addiction of the Main Camera.     Please consider giving this opportunity to Galaxy users, many thanks :)     What do you think about?"
+      },
+      {
+        "intent": "idea",
+        "text": "Hello everyone,     here's another idea to improve UX when using Samsung applications own features.     Gallery app as well as My Files app you can use search feature to find something you would like to open and it is a great feature.     The poblem is that the search feature is provided globally even if you are looking only for Camera album / DCIM folder for example. It would be nice if you limit search field only for the album (in Gallery) or the folder (in My Files) when you are into it, and not to search globally.     I hope you undestand the problem and apply limiting filters in files / pictures location when you are looking in a specific album / folder."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello all I did a quick search and nothing came up. Trying to decide between these 2 tablets. I know there is a lot online about these 2 tablets but thought it best to bring this to the home of the gadgets.    So what would you guys chose between the 2 and what I really need is performance on top of anything else so your views are very much appreciated."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello guys am considering one of these 2 tablets however worried because the 64gb storage will not be enough as I use a lot of apps. Is it possible to transfer apps to sd card with any of these 2 tablets please?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hi, could someone explain this option &quot; Favorite media app''to me? Explain a scenario in which this option could be used."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hi,  I've one question.  I want that my s10+ keep disable notification content on lock screen and it displays me only when I unlock it using face recognization as an iPhone X/XS/XR/."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello all,  Has there been an update to the notification bar last night? as you can see the right-hand configuration looks different, and what is the third notification in from the right hand side?  Thank."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Evening team , before I go downloading all sorts of apps is there a good wallpapers app the S10 , thanks"
+      },
+      {
+        "intent": "inquiry",
+        "text": "I bought the s10 512gb on the 24th of April from the Samsung site and according to the site I should be able to claim free earbuds"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Does anyone have any idea where I need to go to claim these?    There's nothing indicating I can claim them in the Samsung Members app."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello guys. Does anybody know if Samsung Galaxy A5 2017 supports hands free from type C plug?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Does anyone know how to page up/down using tab s4 keybord. I have a number of documents and spreadsheets but can only page up and down using the scroll bar."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Is there a way to add slow motion? I was using it so much before, that I'm thinking of returning the phone because of this .i assumed it was on all new phones from now onwards."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Can Bixby be used to answer phone by voice, phone model A50, if so how? I have tried with no success."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello, can anyone advise on whether there is an HDMI adaptor available to connect my Galaxy Tab A6 to either a TV or a projector?  With many thanks"
+      },
+      {
+        "intent": "inquiry",
+        "text": "How do you get kayo sports app on Samsung's tv without google play store"
+      },
+      {
+        "intent": "inquiry",
+        "text": "When will good lock update cutout hole to stay alight until notification is read?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "I have screen res on wqhd+ with video enhancer enabled, but youtube option only goes as far as 1440p... (and ofc I select and open a 4K video demo)    Anyone knows the solution to this?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hi,  I have a new Galaxy S9 plus with Samsung Mail installed.    I have set up my email on this but can only sync/download new emails via wifi.    On my mobile data connect no new emails are being received, even when I manually check.    Could anybody please offer a solution to this? Thanks"
+      },
+      {
+        "intent": "inquiry",
+        "text": "How long does it take to fully charge the galaxy buds case with the earbuds at 100% aswell?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Why are videos which are taken in HD uploading into WhatsApp groups appearing grainy?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "I'm wondering if the Samsung s10 has pre installed DeX in it?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hello  I'm thinking of buying an S10E and i read that the dome glass is the best screen protector to have. I usually buy a very protective case for my phones so i'm now wondering which protective case is compatible with the screen protector?    Or recommend an equally Good protector that works with cases.    Thanks in advance!"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hi guys Does anyone know if the Google discover page is coming to the S10 without going directly to the app. I like the idea of having the discover page to the left of my home screen replacing Bixby home. It seems to be on every other android device.     Thanks in advance"
+      },
+      {
+        "intent": "inquiry",
+        "text": "How do get to phone numbers on sim card and save them on new s10 phone ?"
+      },
+      {
+        "intent": "inquiry",
+        "text": "Looking for someone who has galaxy s10, who would be willing to give me the iconic Fortnite skin that comes with the phone, and in return, I could give you a $25 digital gift card in return. HMU ASAP."
+      },
+      {
+        "intent": "inquiry",
+        "text": "Hi all  I'm upgrading to a s10 from my note 9, anybody know how to back up and restore the bookmarks I have in my Samsung internet browser's Secret mode onto my new phone?"
+      },
+      {
+        "intent": "general",
+        "text": "A link to petition org to have Samsung return Pro Video Mode."
+      },
+      {
+        "intent": "general",
+        "text": "A Nice and Elegant Sports Watch with a Heart Rate Monitor, Steps counter and Date. What more would you want ? A minor update saw an addition to a battery indicator thus making the watch-face more informative."
+      },
+      {
+        "intent": "general",
+        "text": "I feel like they sooo want to make the features and so on look like an iPhone's ! Ugh, have some pride won't ya Samsung ? If I wanted an iPhone I wouldn't have bought a Samsung phone in the 1st place ! And I really liked the previous interface, like really ! Now it's all messed up, the icons specially ! They look like they were designed for kids !  But let's talk about the Always on Display feature !! Since I've had the A5 (2017), I now own a A8 (2018), I've been fond of AOD. It's been even better with all the updates, giving us the possibility to customize it even more.  Wanna know what it looks like know ? Utter and absolute *****.  The hour display I used to find super graceful and elegant has not been spared either.  And whose idea was it to color the small icons under the hour display/clock ??  Samsung, I've been a loyal customer of yours for years, don't make turn my back on you now !"
+      },
+      {
+        "intent": "general",
+        "text": "I think the S8 + is far better than the previous series, really amazing. Give support for activities to manage websites from smartphone. Good Job !"
+      },
+      {
+        "intent": "general",
+        "text": "Nice and elegant community samsung is in india now."
+      },
+      {
+        "intent": "general",
+        "text": "Now google search bar had support for night mode. samsung is already providing dark mode on android p while this feature is supported on android q now google is officially rolling dark mode support for its own apps"
+      },
+      {
+        "intent": "general",
+        "text": "For amoled  display  users use dark mode as much as possible in ui and in apps that you are using to save battery life"
+      },
+      {
+        "intent": "general",
+        "text": "Samsung Galaxy A20 vs Xiaomi Redmi Note 7 vs Realme 2 Pro Know all - : Price, specifications, features."
+      },
+      {
+        "intent": "general",
+        "text": "Unlocked s10+ march/april updates. i know the unlocked model is usually behind but any news on this. Its almost halfway through  april and unlocked is still on feb."
+      },
+      {
+        "intent": "general",
+        "text": "J6 has started getting android 9 globally. This time Samsung is doing insane performance in terms of update."
+      },
+      {
+        "intent": "general",
+        "text": "Got the band NEW Galaxy s10... its soooo amazing, best phone I could ever have"
+      },
+      {
+        "intent": "general",
+        "text": "I had a s6 before I got my S9 and I must say that so far I really like the S9. I like Samsung products anyway, but this phone is awesome"
+      },
+      {
+        "intent": "general",
+        "text": "Appreciate Samsung bringing back the favorites tab to the front page. Using bookmarks is apart of the internet experience. Keeping it easy for the user is the whole idea."
+      },
+      {
+        "intent": "general",
+        "text": "finally got the pie update and let me tell, I am completely thrilled with it. The brilliant UI. There's a couple things that I couple complain about but over all absolutely great."
+      },
+      {
+        "intent": "general",
+        "text": "he indian consumers would emerge as winners in this battle between samsung and xiaomi, this is because if samsung lower prices of new phones"
+      },
+      {
+        "intent": "general",
+        "text": "There is only one thing left to do with this garbage oled piece of. Shoot it with a shot gun, only way I can think to unlock since they are and locked it. I didn't think I was buying apple garbage when I bought this."
+      },
+      {
+        "intent": "general",
+        "text": "How do you all like the fresh new look the Community has?"
+      },
+      {
+        "intent": "general",
+        "text": "Ok guys, here is my honest thoughts and isses that I found on my S10 right out of box after less then 30 minutes of use. First of all I want to say that I'm huge fan of Samsung Smartphones. Im not here to troll! In past I had S2,S3,S4,S5,Note 4 and now for almost 3 years now I been used my S7 edge and I love it. Amazing phone! Now, few days ago price for S10 with 2 years contract on the Sweden Comviq operator drooped to 39 Euros with 10Gb net and free calls. I thought: Wow! This is a good deal! It's time for big upgrade. Finally i can replace my S7edge! It's been like ages. Ok,I pull the trigger and order S10 120Gb (white color) and I was super excited about it! Just two days later i received my package, I open it up and my excitement started to go down very, very fast... In short here what I found in less then 30 minutes: S10 can't switch between cameras in video recording 1080P 60fps and 4K 60fps mode. You are stuck with only main camera. S10 don't have PRO mode for video recording. S10 have lower low light and indoors pictures quality compare to my S7 edge and my wife S8. S10 have Power-button way up on the side which make it very hard to use with one hand. S10 on the You-tube App has only 1080p resolution supported while my S7 edge has 1440p S10 has no higher screen brightness when watching videos on you-tube app compare to my S7 edge tested 50% up to 100% brightness."
+      },
+      {
+        "intent": "general",
+        "text": "Ok guys, here is my honest thoughts and isses that I found on my S10 right out of box after less then 30 minutes of use. First of all I want to say that I'm huge fan of Samsung Smartphones. Im not here to troll! In past I had S2,S3,S4,S5,Note 4 and now for almost 3 years now I been used my S7 edge and I love it. Amazing phone! Now, few days ago price for S10 with 2 years contract on the Sweden Comviq operator drooped to 39 Euros with 10Gb net and free calls. I thought: Wow! This is a good deal! It's time for big upgrade. Finally i can replace my S7edge! It's been like ages. Ok,I pull the trigger and order S10 120Gb (white color) and I was super excited about it! Just two days later i received my package, I open it up and my excitement started to go down very, very fast... In short here what I found in less then 30 minutes: S10 can't switch between cameras in video recording 1080P 60fps and 4K 60fps mode. You are stuck with only main camera. S10 don't have PRO mode for video recording. S10 have lower low light and indoors pictures quality compare to my S7 edge and my wife S8. S10 have Power-button way up on the side which make it very hard to use with one hand. S10 on the You-tube App has only 1080p resolution supported while my S7 edge has 1440p S10 has no higher screen brightness when watching videos on you-tube app compare to my S7 edge tested 50% up to 100% brightness. S10 feels a bit more hollow inside when you knock it with the finger on the back glass compare to my S7 edge. S10 USB C charging port is soldered directly to the motherboard so If you damage it basically you have to replace whole motherboard ( For this last one I seen S10 tare-down video on YouTube) Maybe I forgot anything... Anyway, I got to say that for the price of 1000Euros (in most of the Sweden stores) I found S10 to be very disappointing smartphone. For me personally it feels more like a downgrade from my S7 edge and for sure not a upgrade. What I also found a very frustrating is a fact that not even one ''PRO'' reviewers on YouTube mention any of this on their S10 video reviews!? I simply can not believe it!... So what I did on the end? Sadly, I put my S10 back to the package and I send it back to the Comviq. It seems that I will stay with my S7 edge until Samsung fix these issues on the S10. If not I hope that S11 will be better. Time will tell... P.S. Big thanks to the Comviq Sweden for letting me to return S10 back and roll back my old monthly subscription!"
+      },
+      {
+        "intent": "general",
+        "text": "I published a link a few months ago for a customer experience survey.    Thank you to all who participated, your input has been brilliant to help us identify the priorities that will help us grow the business and drive retention going forward. And of course, surprise and delight our customers.    Update on what we found:    We are building momentum here in the UK and in the Europe Office, moving from lots of insights and data to driving action to make changes. We have a strong motivation to improve, but of course we have some areas to develop if we are to build a truly customer centric culture. Some of the results from the survey:    - Strategic decisions need to be more firmly grounded in customer insight and feedback. - A clear customer experience agenda need to be established which links individual roles and rewards. - Better tools and systems to provide timely customer insight and information and enable a personalised approach to the customer. - A coherent end-to-end management of customer journeys to drive customer retention and engagement though the lifecycle.    The Things we are doing really well:    The key strength in SEUK and EO is you, our people! We all share a passion for the Customer Experience and feel empowered to deliver it with excellence. Which is great to hear.    And we’re focussing on customers in the right way – both with the set up of the SEUK Ownership Experience team and our European Customer Experience team. We are built for success. With key initiatives to take Samsung to the next level aiming to deliver an outstanding customer experience by strengthening our emotional connection with our customers. Watch this space!    Any ideas you have to make the Samsung experience amazing for all our customers, please get in touch!"
+      },
+      {
+        "intent": "general",
+        "text": "Hello guys :smiling-face: recently i received a TabPro S as a gift since i cant afford a pc at the moment. sadly it ships with a Windows 10 OS which runs extremely poorly on this under-powered device. since i got it I installed chromium OS on it but I have been facing hard times trying to make everything work.  - For the amazing OLED screen the builtin brightness controls are not working since its an OLED screen with no back-light. This brightness Controller works with icc color profile. how do i install it through the Chromium terminal? is there alternatives since Xrandr is no longer supported under Chromium OS? There are some Chromebooks out there with OLED screens. i wonder if there is a way to copy whatever they are using to control the screen!  - The sound card ALC298 is supposed to be supported under Linux. However there is no sound coming through the speakers and there is no solution i found so far.  on this page the driver for the webcam is called &quot;Intel 2D Imaging driver&quot;. is it supported on Linux? The Camera on this device needs these drivers in order to work: Intel Control Logic (Device ID : Intel CSI2 Host Controller (Device ID : PCI\\VEN_8086&DEV_9D32 ) Intel Imaging Signal Processor 2500 (Device ID : PCI\\VEN_8086&DEV_1919 ) I havent found any offical LINUX release but some are working on bringing the drivers to the platform. anyone knows if someone was successful ?  - Sadly i have found no evidence that the SMO8A80 accelerometer is supported or if there is Linux driver for it out there... maybe there is a way around this? The Accelerometer driver is called : SAMSUNG K2HH Accelerometer Driver This GitHub page and This one offer varius Samsung devices drivers. Are they useable ? Can anyone make a useable Linux driver out of them ? The device ID: ACPI\\VEN_SMO&DEV_8A80&SUBSYS_C135144D  With a lot of luck everything else works great on this device and the experience is truly refreshing after having to spend a couple of weeks suffering with windows 10. It would be amazing if you guys can point me in the direction where i can get the last of those shortcomings covered."
+      },
+      {
+        "intent": "general",
+        "text": "Hi Community,     the new generation of Galaxy S Smartphones has just come out and and a lot of new features are ready to be discovered and considered! :smiling-face:     One of these is the new type Infinity Display with Dynamic Amoled technology that makes the experience on these new devices unique and original!     The Infinity-O panel introduces a new concept of design and experience that can reimagine the user feeling to which consumers have always been used to. In fact, this new display solution, which best reaches all the sides of the frames, incorporates just below the screen all the useful sensors of the Smartphone, including the fingerprint recognition sensor, of which we will talk in details in the next weeks.     Front Camera sensors have been inserted inside the surface of the display, thanks to a proprietary technology that has let to create a hole with a high precision without affecting the functioning of the pixels around it.     Taking the Galaxy S10e aside, which has a 5.8-inch display with a completely flat surface and a FHD+ panel, all the technology used in the Galaxy S10|S10+ (6.1 and 6.4 inches respectively) really works wonders :grinning-face-with-one-large-and-one-small-eye:     In fact we are talking about cutting-edge technical features, including:     - Physical High resolution with 3040x1440 pixel of the panel; - Possibility to display 16 millions of colors; - A proprietary hardware component to optimize image quality performance (mDNIe = mobile Digital Natural Image engine); - HDR10+ certification, the same that is also found on some flagship TVs; - Dynamic Tone Mapping that optimizes the brightness level to make the most hidden details visible; -  Reduction of the 42% blue light; - 100% Color Volume with 0.4 JNCD of accuracy, 1200 nits of peak brightness and contrast ratio 2M:1. What does it mean for you? That you're finding yourself in front of the best panel ever made for a Smartphone, and Display Mate says too! :shocked-face-with-exploding-head:     The beauty of these displays does not stop there: in the settings, you always have the possibility to adjust the screen colors for your device and choose between Vivid or Natural color mode!     With all this you can enjoy spectacular content also provided by third-party services such as Netflix and Amazon Prime Video.     New Galaxy S10 screens provide an inimitable experience in the multimedia sector: what benefits will your use of the Smartphone derive from all this? We are ready to find out! :smiling-face-with-sunglasses:     See you soon! :face-with-stuck-out-tongue-and-winking-eye:"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I recently updated to samsung one (android 9) and my bluetooth connection is super unstable with all my bluetooth devices. I deleted bluetooth data and cache and restarted my phone and it didnt fix it at all, can anyone help?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Good Morning.  Yesterday I noticed that began appearing in calls through (Whatsapp and Messenger) a bright spot above the percentage of the battery. During the call the point is blinking.Is it a bad pixel? Without solution?  Thank you"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Why can't I browse all my photos when wanting to upload pics to a selling site? The photos that appear are 187 out of 1000+ and not any of the ones I want to upload."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Help screen timeout keeps resetting itself to 30 seconds even though I chose 10 minutes      Any info would be appreciate    Thanks in advance."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi all , in the settings I have the screen unlock sound off but I've been getting a random beep when I unlock the screen , anyone else have this irritating issue"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi my gear s3 frontier keeps disconnecting from my Samsung a50 has anyone else had this problem please and if so did you resolve it thanks."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Following the upgrade to Pie, the mobile hotspot on my J4 no longer works. Can anyone help with this? Thanks."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I've had the s9 for a week and it will randomly make the shutter/screenshot noise multiple times a day. I've turned off the palm swipe. There are no screenshots or photos saved to gallery. Can anyone help please."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Help!! Since I downloaded the new software update yesterday I do not have any data! Cannot access internet or apps unless I go onto Wi-Fi!! what is wrong or what can I do to get data back?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I, I recently bought a new Galaxy S10e. It has been more one week now that I have been using this smartphone. I have noticed that the Fingerprint-Scanner/Power-Button is slightly loose, it wobbles when I try to unlock my phone and I can feel it because it makes slight noise every time I try to unlock my phone. I am just wondering is it normal for S10e to behave like this? Does anyone of you have similar issues?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Received galaxy buds today. Paired to my S10+.&nbsp; Wanted to test out ambient mode, but there is no change when turned on and when off. I have reset the galaxy buds but no change. Does anyone have a fix for this?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "So, I am a lucky person and gladly I live in Ukraine, great place, yet there is no Samsung Pay services. I've bought myself a Samsung Watch as a present for New Year."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "After pie updation future charging info remaining time for charging full does not show on my always on display why? how to solve this?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I am having difficulty editing slow motion (not super slow mo) footage shot on my S10, on the phone itself. I shot a fairly long slow motion clip, maybe 90 seconds long. I wanted to trim it down to the bit I wanted to capture."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "When ever i go full screen on google chrome or any other browser or YouTube app my phone takes me back to the homepage after like 3 seconds in full screen mode , any advice?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "my Galaxy A20 status bar is very upset. half of some icons is behind of black margin.  is there any way to calibrate screen to downward? or other solution?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "My bluetooth connection disconnects automatically after few seconds from my land rover discovery sports 2018. The landrover service mentioned that its the android PIE (OS) issue. Could you please let me know how to resolve this?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Please can someone explain to me why my TV is showing dark colours as 16bit graphics or better yet how the hell I fix it."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I do an high intensity aerobics class called bounce and have just got the active watch and cannot see a good setting to choose for aerobics. I used other workout the other night and the calorie burn was worse than a 30min walk I used to do triple that on my Fitbit.  Anyone know a good setting to put it on?  Alternatively I can see that you can choose aerobic workout on the health app, but does this then take into account your heart rate?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I have recently updated to a Samsung TV from . It appears I am unable to play video files from a USB memory stick on this new TV, however, I WAS able to play the same files on this USB on the previous model.  I find it strange how I cannot play these files. I would have thought that I would still be able to play these files on the new TV. be grateful if anyone can help me out on this matter.  Many thanks."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Can anyone help when listening muisc on my buds it plays the pairing sound every few seconds when the music is till playing and its very anyoing any help would be great thanks."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "When I plug my note 9 into the USB of my Peugeot, it keeps connecting then disconnecting immediately, but when I plug my wife's S9 into the USB it bring up android auto onto the cars screen no problem.  Both phones run samsung latest pie on one u/I.  Don't think it's android auto playing up, I'm thinking its either mirror link software on note 9 or the cars USB port can't handle the note 9?  Anyone else having a similar issue please help, thanks....."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi all. Looking for a possible solution/answer to my problem.    Today I had a data usage warning appear. It turns out that that in less than 1 day my email had used just over 20gb of mobile date, 35% battery and 11 hrs running in the background.    Anybody else had a similar problem?    I have a 30gb monthly allowance, which I very rarely use more than 10."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I have tried Dolby Atmos with 5 or 6 different headphones and earphones, but I was not able to hear the slightest difference. I tried all the options with no luck. I turned it on from Notification panel, then I checked the options in the &quot;sound&quot; part of the settings. I was able to hear the differences when using the speakers though. it's just that I don't hear a difference when on headphones.  Am I doing something wrong? Maybe Atmos is not supposed to work with headphones?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I bought a Samsung 75 inch TV just last month. All this week I've had issues turning the TV on and when it does eventually come on it displays some sort of connection issue image? The image shows the wires connecting to the one connect and a explanation mark under the image of the one connect. When I unplug the one connect and leave it to cool down? It does come back on for a few hours but then starts to display the same error again. Any ideas on what could be wrong?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi All    Ive been waiting 48 Days now For my Buds is anyone else still having a delay like this?    To be honest its a bit of a joke now the Supposed tracking number i was sent 5 days ago is not recognised ."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Ever since I have installed the new update my phone cant find my TV or chromecast/apple tv/ firestick  Please help!"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "i bough a used phone 2 days ago and was hyped about the One UI update but when i tried to update it and cheked for updates and nothing new i dont know or i jaust must wait for the in coming updates WHY Help me please quick as possible Thank you"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "What happened to the Shazam app on my Samsung tv, it disappeared... am I the only one who experienced this?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "After the latest phone update on my S9 I can't spilt screen. Before the update it was perfect and easy to use. Now I can't find it any where. When I look on YouTube it only has the split screen Ingo for the S9 where the update on the phone hasn't been done. HELP PLEASE"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi Community,    Hope you guys are all well.    Looking to get some advice on whatsapp message notifications. Coming from using iPhone for many years, I still haven't managed to master using my Note 9.    So the issue i have is, i want my messages to appear on the screen in the same way they did on my iPhone. If i am on the home screen (not on on whatsapp), when receiving a message, a notification is displayed with the message received, but if i recieve a second message from the same person, the notification appears but doesnt show me the message instead it shows me the notification which says 2 message from bob(from receiver).    How do i get it to show me multiple messages without having to scroll down on the nav bar.    I've checked all the settings, everything seems to be enabled.    Hope someone can help me  Abdul"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "I cannot get any sound from the Absolute Radio App.    App opens ok and shows all the stations and songs playing but no sound.    All the other Smart TV apps work fine such as Spotify, iPlayer    any ideas?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Can't sign in into my Samsung Account in the Galaxy Wearable App | Blank White Screen | Galaxy Watch    My Device Specs  Honor 8x  Galaxy Watch 46mm  I'm From India    Need Help As Soon As Possible."
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "My S10+ received the April update yesterday. Since then, I noticed that Wi-Fi calling had disappeared from the settings.  Why would this have been disabled by the April update?"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Hi,  my TV keeps losing the network (wired). I have to unplug the One Connect box to have it working again.  FW: 1202. What should I do ?  Am I the only one ?  Best"
+      },
+      {
+        "intent": "problems+inquiry",
+        "text": "Has anyone else lost all the features on Samsung health since the last update??    I no longer have even the heart rate monitor..    I open the app and all that is available is the step tracker ( so now own an expensive pedometer)    This has happened on my s10plus and s8plus in the last week!!!    I tried to uninstall and cleared cashe then restarted install and app to still be in the same situation"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
